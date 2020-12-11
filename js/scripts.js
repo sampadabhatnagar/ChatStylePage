@@ -18,7 +18,7 @@ window.onload = function() {
 
   var messages = [
     "I'm Sampada Bhatnagar️",
-    'I love to design and code  💻',
+    'I am a creative, free thinker who loves to design and code  💻',
     'Email me to learn more 📥',
     ' @ <a href="mailto:sampada.bhatnagar@gmail.com">sampada.bhatnagar@gmail.com</a>',
     getCurrentTime(),
